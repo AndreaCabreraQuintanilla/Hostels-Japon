@@ -9,7 +9,7 @@ El dataset sobre el que trabajamos posee datos tales como la calidad de la atmó
 
 En este proyecto se van a comparar las diferentes valoraciones con el fin de elegir la mejor ciudad para visitar Japón y el mejor hostel para hospedarse en función de las variables que contiene el dataset.
 
-## Lenguajes utilizados
+## Lenguaje utilizado
 * Python 3.10.11
 
 ## Librerias utilizadas
